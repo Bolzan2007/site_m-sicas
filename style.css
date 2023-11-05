@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.container-fluid{
+    background-color: #B68D40;
+    height: 15vh;
+}
+header{
+    background-color: #B68D40;
+    height: 10vh;
+
+}
+footer{
+    background-color: #B68D40;
+    height: 20vh;
+    width: 500vh;
+}
+
+main{
+    background-color: #122620;
+    height: 150vh;
+}
+
+
+
+
+
+
+
+
+
+
+
